@@ -1,0 +1,17 @@
+.img {
+  width: 160px;
+}
+
+.name {
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.is-online {
+  color: green;
+}
+
+.is-offline {
+  color: red;
+}
