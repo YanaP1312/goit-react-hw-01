@@ -9,9 +9,12 @@
 }
 
 .is-online {
+  font-size: 18px;
+  letter-spacing: 2px;
   color: green;
 }
 
 .is-offline {
+  composes: is-online;
   color: red;
 }
